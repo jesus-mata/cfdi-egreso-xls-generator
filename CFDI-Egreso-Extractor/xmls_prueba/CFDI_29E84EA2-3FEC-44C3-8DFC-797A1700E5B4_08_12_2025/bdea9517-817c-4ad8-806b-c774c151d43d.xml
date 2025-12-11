@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="4.0" Serie="FFI" Folio="36226" Fecha="2025-11-01T09:16:24" Sello="sxo+Jm0wLxI4pfEDevmeSxUGQW2vmmpJAnTLAdGGPGYrH1bSb1ktPtcW5L751wGZohuZSXIiASifHmjEJ+1tDh1L8xqP83Q0qkhdBq7iJI3tsmx7WW4o3Fk+uHF2GdHZzPr28Q3J2WBsTApsP9JR4tuXSOMKKoVEQTYFh8EN9kNvgfh+i7pli6j1bTexd3RtC0GQZZkJdvqVrfX9d1aSYaWeQ3XxevoVSn/HoLmxvO2zfjTYHgUsW6F3o79eFlTtpoIHOhiLTDdS1Iiw5m3MJRSwhDc9N8LKQBnWX0YH+IJIZsmD/H2CcHuQ6SWaDrdpdCFdyLz5u05TsJmvxO0egQ==" FormaPago="04" NoCertificado="00001000000715764330" Certificado="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" SubTotal="1349.13" Moneda="MXN" TipoCambio="1" Total="1565.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="66035" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:terceros="http://www.sat.gob.mx/terceros" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor Rfc="SWI1201268J8" Nombre="SWISSLAB" RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="MASA9105168E9" Nombre="ANA CRISTINA MATA SANTOS" DomicilioFiscalReceptor="31100" RegimenFiscalReceptor="605" UsoCFDI="D01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="85121800" NoIdentificacion="FI00030897" Cantidad="1" ClaveUnidad="E48" Unidad="Examen" Descripcion="BIOMETRIA HEMATICA COMPLETA" ValorUnitario="151.72" Importe="151.72" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="151.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.28" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="85121801" NoIdentificacion="FI00030897" Cantidad="1" ClaveUnidad="E48" Unidad="Examen" Descripcion="PERFIL TIROIDEO (T-UPTAKE,FT7,T3,T3RU,T4,FT4,TSH,IPROT)" ValorUnitario="541.38" Importe="541.38" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="541.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="86.62" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="85121800" NoIdentificacion="FI00030897" Cantidad="1" ClaveUnidad="E48" Unidad="Examen" Descripcion="UROCULTIVO" ValorUnitario="325.00" Importe="325.00" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="325.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="52.00" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="85121800" NoIdentificacion="FI00030897" Cantidad="1" ClaveUnidad="E48" Unidad="Examen" Descripcion="GLUCOSA, CURVA DE TOLERANCIA 2 HRS (75gr)" ValorUnitario="331.03" Importe="331.03" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="331.03" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="52.97" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="215.87">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="1349.13" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="215.87" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital FechaTimbrado="2025-11-01T09:18:28" UUID="BDEA9517-817C-4AD8-806B-C774C151D43D" NoCertificadoSAT="00001000000704859748" SelloCFD="sxo+Jm0wLxI4pfEDevmeSxUGQW2vmmpJAnTLAdGGPGYrH1bSb1ktPtcW5L751wGZohuZSXIiASifHmjEJ+1tDh1L8xqP83Q0qkhdBq7iJI3tsmx7WW4o3Fk+uHF2GdHZzPr28Q3J2WBsTApsP9JR4tuXSOMKKoVEQTYFh8EN9kNvgfh+i7pli6j1bTexd3RtC0GQZZkJdvqVrfX9d1aSYaWeQ3XxevoVSn/HoLmxvO2zfjTYHgUsW6F3o79eFlTtpoIHOhiLTDdS1Iiw5m3MJRSwhDc9N8LKQBnWX0YH+IJIZsmD/H2CcHuQ6SWaDrdpdCFdyLz5u05TsJmvxO0egQ==" SelloSAT="Y5Rcku2sujNNTCQnC/o6gGCwgJwQVsjyTCQG7ZSPKNeReLqkVLq6ixSi3jRkgHs6zhqbrUE8AjicX0NofY97A2pu9YNbl0ytYnpNB7AcKEq2gD/nLDPRvBXLTc7oFF7vUOMnh7vdXv/99ChcbyY2ZmxvpUcZLq9+3Up68ZI43TebpQ5cZuHp+XnVsJIL7m/VKyx/0VcX4dMU9zqSImffW6aVdWVe0sCu8TTiUKQaya8MNx3PwO++2pClUHzlj3khrQJjVz1XcZqi20ruHysPLLaAJRs+0crQAtR/QMizXL2Ez42Jio4TrxXWbuvoNUlCvQLwwRXBxAHazOz+LTC3HA==" Version="1.1" RfcProvCertif="TLE011122SC2" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento>
+</cfdi:Comprobante>

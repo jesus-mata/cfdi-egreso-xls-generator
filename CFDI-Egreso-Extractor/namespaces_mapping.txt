@@ -1,0 +1,19 @@
+http://www.sat.gob.mx/sitio_internet/cfd/catalogos=Catalogos
+http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI=TdCFDI
+http://www.sat.gob.mx/sitio_internet/cfd/catalogos/ComExt=ComExt
+http://www.sat.gob.mx/sitio_internet/cfd/catalogos/Nomina=catalogos.Nomina
+http://www.sat.gob.mx/sitio_internet/cfd/catalogos/CartaPorte=Catalogos.CartaPorte
+
+# Retenciones e información de pagos
+http://www.sat.gob.mx/esquemas/retencionpago/1/catalogos=RetencionPago.Catalogos
+http://www.sat.gob.mx/esquemas/retencionpago/2=RetencionPago.v2
+
+#Carta Porte
+http://www.sat.gob.mx/CartaPorte=CartaPorte.v10
+http://www.sat.gob.mx/CartaPorte20=CartaPorte.v20
+http://www.sat.gob.mx/CartaPorte30=CartaPorte.v30
+
+#Comercio Exterior
+http://www.sat.gob.mx/ComercioExterior=ComercioExterior.v10
+http://www.sat.gob.mx/ComercioExterior11=ComercioExterior.v11
+http://www.sat.gob.mx/ComercioExterior20=ComercioExterior.v20
